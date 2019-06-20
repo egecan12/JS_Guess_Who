@@ -1,10 +1,13 @@
 body {
   font-size: 16px;
+  background-image: url("https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=564&q=80");
 }
 
 h1 {
   text-align: center;
-  font-size: 24px;
+  font-size: 38px;
+  font-family: Helvetica, sans-serif;
+  color: aliceblue;
 }
 
 main {
@@ -21,7 +24,7 @@ main {
 }
 
 [class^="card"] {
-  border: 1px solid black;
+  border: 5px solid black;
   margin: 3px;
   transform-origin: center bottom;
   width: 110px;
@@ -35,7 +38,7 @@ main {
 }
 
 .card1 {
-  background: url("../img/guesswho.jpg") -10px -20px;
+  background: url("../img/guesswho.jpg") -12px -20px;
 }
 
 .card2 {
