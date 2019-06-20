@@ -119,3 +119,9 @@ main {
 .card24 {
   background: url("../img/guesswho.jpg") -875px -436px;
 }
+
+p{
+
+  color: aliceblue;
+  font-family: Helvetica, sans-serif
+}
